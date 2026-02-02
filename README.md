@@ -26,3 +26,21 @@ DAY :2
 
 *What I learned:*  
 IAM is the foundation of AWS security. Without proper identity and permission control, cloud infrastructure is vulnerable. Understanding users, roles, and policies is critical for building secure cloud environments.
+
+
+Day 3 :- 
+
+After a few days of health issues, I’m finally back to learning and building again.
+Sometimes life pauses the routine, but it should never stop the journey.
+
+Today, I continued my cloud learning path by working hands-on with Amazon EC2.
+This session helped me understand how real servers are created, secured, and managed in the cloud.
+
+Amazon EC2 (Elastic Compute Cloud) lets you create virtual servers in minutes. Instead of buying physical machines, you can launch, scale, and manage servers on demand. It feels like having a global data center at your fingertips.
+
+What makes EC2 powerful is not just launching a server, but the control and flexibility behind it.
+
+I launched my first EC2 instance on AWS, connected to it through SSH, and saw how a real cloud server actually works. What really stood out was learning about Security Groups. They are like digital gatekeepers that decide who can access your server and how.
+By setting rules for ports like SSH and HTTP, I realized how much security depends on small configuration choices. One wrong rule can expose everything. One correct rule can protect your system.
+This session showed me that cloud is not just theory. It’s real, practical, and powerful when you understand how the pieces connect.
+Slowly, step by step, I’m building my cloud and security foundation.
