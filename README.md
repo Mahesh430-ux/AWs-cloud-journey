@@ -45,3 +45,13 @@ I launched my first EC2 instance on AWS, connected to it through SSH, and saw ho
 By setting rules for ports like SSH and HTTP, I realized how much security depends on small configuration choices. One wrong rule can expose everything. One correct rule can protect your system.
 This session showed me that cloud is not just theory. It’s real, practical, and powerful when you understand how the pieces connect.
 Slowly, step by step, I’m building my cloud and security foundation.
+
+
+
+Day 4 :-
+
+Today I explored Amazon Elastic Block Store (EBS) and honestly, it made the idea of cloud storage much clearer for me.
+Think of EBS like a hard drive in the cloud that you attach to an EC2 instance.
+Your server can stop, restart, or even crash, but your data on EBS stays safe and ready to use again.
+What really stood out to me is how reliable and flexible EBS is.
+
