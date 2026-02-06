@@ -55,3 +55,19 @@ Think of EBS like a hard drive in the cloud that you attach to an EC2 instance.
 Your server can stop, restart, or even crash, but your data on EBS stays safe and ready to use again.
 What really stood out to me is how reliable and flexible EBS is.
 
+
+Day 5 :-
+🧠 Just finished watching a great tutorial on AWS AMIs: “AWS AMI Explained: Create Custom EC2 Images and Templates in Minutes!” (Hindi).
+
+This video breaks down Amazon Machine Images, demonstrating how to create custom AMIs from EC2 instances and explaining why they matter in cloud automation and infrastructure provisioning.
+
+Key learnings:
+✔ What AMIs are and how they work in EC2  
+✔ How to create, configure, and use custom AMIs  
+✔ Practical steps to launch consistent environments  
+✔ How AMIs fit into scalable AWS workflows
+
+Very beginner-friendly and practical for cloud engineers and anyone building infrastructure automation with AWS. Highly recommended for your AWS learning path! 🚀
+
+Watch here: https://www.youtube.com/watch?v=GW87ZIK9fJw
+
