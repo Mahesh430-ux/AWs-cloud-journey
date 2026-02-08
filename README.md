@@ -71,3 +71,11 @@ Very beginner-friendly and practical for cloud engineers and anyone building inf
 
 Watch here: https://www.youtube.com/watch?v=GW87ZIK9fJw
 
+Day 6 :-
+Today I learned how Elastic Load Balancer (ELB) and Auto Scaling Groups (ASG) work together in AWS to build scalable and highly available applications.
+This video clearly explained:
+How ELB distributes traffic across EC2 instances
+How ASG automatically adds or removes servers based on load
+How both services integrate to avoid downtime and save cost
+Understanding this architecture is a big step toward real-world cloud engineering.
+Excited to apply this in my own AWS projects. 🚀
